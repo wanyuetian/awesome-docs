@@ -1,11 +1,8 @@
-![logo](_media/kubernetes-logo.svg)
+![logo](_media/icon.svg)
 
+# Golang Notes<small>3.5</small>
 
-# Kubernetes Notes<small>3.5</small>
-
-
-
-> Kubernetes Notes
+> Golang Notes
 
 - Simple and lightweight
 - No statically built html files

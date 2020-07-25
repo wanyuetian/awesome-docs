@@ -1,6 +1,6 @@
-![logo](_media/icon.svg)
+![logo](_media/kubernetes-logo.svg)
 
-# Kubernetes <small>3.5</small>
+# Kubernetes <small>1.15</small>
 
 > Kubernetes 学习笔记
 

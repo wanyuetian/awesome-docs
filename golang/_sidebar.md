@@ -1,4 +1,6 @@
 * [Home](/ "Home")
 * [Guide](guide.md "Golang Guide")
 * [Get Started](get-started.md "Golang Get Started")
-* [基础语法](base.md "Golang Base")
+* [基础](base.md "Golang Base")
+* [进阶](advance.md "Golang Advance")
+* [实践](practice.md "Golang Practice")

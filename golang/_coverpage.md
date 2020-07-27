@@ -9,4 +9,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](guide.md)
+[Get Started](README.md)

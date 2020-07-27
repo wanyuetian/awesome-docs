@@ -1,3 +1,3 @@
-# Headline
+# Golang Notes
 
-> An awesome project.
+> Golang 学习笔记

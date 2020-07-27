@@ -1,6 +1,9 @@
-![logo](_media/icon.svg)
+![logo](_media/kubernetes-logo.svg)
+
 
 # Kubernetes Notes<small>3.5</small>
+
+
 
 > Kubernetes Notes
 

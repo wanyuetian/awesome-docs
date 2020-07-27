@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * Get Started
   * [Go语言介绍](docs/Introduction.md "Go语言介绍")
   * [Go语言环境搭建](docs/Setup.md "Go语言环境搭建")
@@ -29,3 +30,11 @@
   * [单元测试](docs/Test/Unittest.md "单元测试")
   * [覆盖率测试](docs/Test/Coverage.md "覆盖率测试")
   * [性能测试](docs/Test/Performance.md "性能测试")
+=======
+* [Home](/ "Home")
+* [Guide](guide.md "Golang Guide")
+* [Get Started](get-started.md "Golang Get Started")
+* [基础](base.md "Golang Base")
+* [进阶](advance.md "Golang Advance")
+* [实践](practice.md "Golang Practice")
+>>>>>>> 086c37bdcd43081a928974fafd43c60cfdf4d11c

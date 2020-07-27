@@ -1,3 +1,8 @@
-# Headline
+# Ansible docs
 
-> An awesome project.
+> Docs for ansible.
+
+- ad-hoc
+- playbook
+- role
+- develop

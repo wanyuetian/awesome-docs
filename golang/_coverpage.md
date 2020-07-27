@@ -4,9 +4,9 @@
 
 > Golang Notes
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Be Simpler
+- Be Faster
+- Natural Concurrency
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README.md)

@@ -1,6 +1,7 @@
-## 变量 {docsify-ignore-all}
+# 变量
 
-### 定义变量
+## 定义变量
+
 ```go
 package main
 
@@ -18,7 +19,8 @@ func main() {
     fmt.Println(s)
 }
 ```
-### 全局变量
+
+## 全局变量
 
 ```go
 package main
@@ -32,7 +34,7 @@ func main() {
 }
 ```
 
-### 局部变量
+## 局部变量
 
 ```go
 package main
@@ -42,5 +44,21 @@ import "fmt"
 func main() {
     var locali int = 42  // 局部变量
     fmt.Println(globali, locali)
+}
+```
+
+## 匿名变量
+
+在使用多重赋值时，如果想要忽略某个值，可以使用匿名变量。匿名变量用一个下划线`_`表示：
+
+```go
+func foo() (int, string) {
+    return 10, "Q1mi"
+}
+func main() {
+    x, _ := foo()
+    _, y := foo()
+    fmt.Println("x=", x)
+    fmt.Println("y=", y)
 }
 ```

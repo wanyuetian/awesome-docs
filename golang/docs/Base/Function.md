@@ -63,7 +63,7 @@ end
 **defer执行时机**
 
 
-![image](http://note.youdao.com/yws/res/101037/59A91EFDBFAF433AA90C878AEBFBF7CE)
+![image](../../images/base/defer.png)
 
 **defer经典案例**
 

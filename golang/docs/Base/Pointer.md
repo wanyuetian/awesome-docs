@@ -39,7 +39,7 @@ func main() {
 }
 ```
 我们来看一下b := &a的图示：
-![image](http://note.youdao.com/yws/res/102921/5FDC21E385CE4C45A8D0EB5EBDD18C19)
+![image](../../images/base/pointer.png)
 
 ## 指针取值
 

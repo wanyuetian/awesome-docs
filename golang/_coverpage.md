@@ -8,5 +8,5 @@
 - Be Faster
 - Natural Concurrency
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README.md)
+[GitHub](https://github.com/wanyuetian/awesome-docs)
+[Get Started](docs/Introduction.md)
